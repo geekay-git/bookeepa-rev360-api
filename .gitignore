@@ -1,5 +1,0 @@
-.env
-work/*.sqlite3
-work/*.sqlite3-*
-__pycache__/
-*.pyc
